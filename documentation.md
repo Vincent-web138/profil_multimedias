@@ -88,3 +88,5 @@ TIM me donne la possibilité d’explorer plusieurs facettes de la création num
 
 
 ![Diagramme de flux](https://github.com/user-attachments/assets/00d5ce01-1ae5-4b9d-872e-5f446b368fd9)
+
+---
