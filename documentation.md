@@ -79,5 +79,12 @@ Mon deuxième choix serait designer graphique, parce que :
 Ce projet m’a permis de mieux comprendre mon profil dans le domaine du multimédia.
 TIM me donne la possibilité d’explorer plusieurs facettes de la création numérique et de développer mes compétences, tout en m’aidant à préciser mes objectifs de carrière.
 
+---
 
-![Moodboard](téléchargement/moodboard.jpg)
+![Moodboard](https://github.com/user-attachments/assets/ee9d335b-9581-404a-af66-7ef71d18ff08)
+
+
+![carte mentale](https://github.com/user-attachments/assets/54937c65-fb1a-4152-9123-17a99fc3da04)
+
+
+![Diagramme de flux](https://github.com/user-attachments/assets/00d5ce01-1ae5-4b9d-872e-5f446b368fd9)
