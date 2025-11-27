@@ -82,7 +82,7 @@ TIM me donne la possibilité d’explorer plusieurs facettes de la création num
 
 ---
 
-### Images
+# Images
 
 ![Moodboard](https://github.com/user-attachments/assets/ee9d335b-9581-404a-af66-7ef71d18ff08)
 
