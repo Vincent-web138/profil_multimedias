@@ -1,3 +1,4 @@
+
 # Ananlyse d'un profil multimédia
 ### Auteur : Vincent Quesnel
 ### Date : Automne 2025
@@ -80,6 +81,8 @@ Ce projet m’a permis de mieux comprendre mon profil dans le domaine du multim�
 TIM me donne la possibilité d’explorer plusieurs facettes de la création numérique et de développer mes compétences, tout en m’aidant à préciser mes objectifs de carrière.
 
 ---
+
+### Images
 
 ![Moodboard](https://github.com/user-attachments/assets/ee9d335b-9581-404a-af66-7ef71d18ff08)
 
